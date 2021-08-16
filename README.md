@@ -6,5 +6,5 @@
 
 - [MapaMental_1_1847156](https://github.com/DiegoMontemayor/Mineria-de-Datos/blob/main/MapaMental_1_1847156.pdf)
 
-- [Ejercicio de Base de Datos_Equipo_6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Equipo_6-Ejercicio%20base%20de%20datos%20.pdf)
+- [Ejercicio de Base de Datos - Equipo 6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Equipo_6-Ejercicio%20base%20de%20datos%20.pdf)
 
