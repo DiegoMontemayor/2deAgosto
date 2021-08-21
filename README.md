@@ -8,3 +8,5 @@
 
 - [Ejercicio de Base de Datos - Equipo 6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Equipo_6-Ejercicio%20base%20de%20datos%20.pdf)
 
+
+- [Ejercicios de Python (básicos)](https://github.com/DiegoMontemayor/Mineria-de-Datos/blob/main/Ej_Python_1847156.ipynb)
