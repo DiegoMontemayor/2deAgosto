@@ -10,4 +10,4 @@
 
 - [Ejercicios de Python (básicos)](https://github.com/DiegoMontemayor/Mineria-de-Datos/blob/main/Ej_Python_1847156.ipynb)
 
-- [Práctica 1 - Limpieza de Datos](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo6.ipynb)
+- [Práctica 1 - Limpieza de Datos ;Equipo 6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo6.ipynb)
