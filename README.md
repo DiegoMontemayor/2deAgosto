@@ -15,3 +15,5 @@
 - [Avance1_PIA_Equipo6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Avance1_PIA_Equipo6.ipynb)
 
 - [Cuestionario_Visualizacion_6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Cuestionario_Visualizacion_6.pdf)
+
+- [Presentación_Visualización_6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Presentaci%C3%B3n_Visualizaci%C3%B3n_6.pdf)
