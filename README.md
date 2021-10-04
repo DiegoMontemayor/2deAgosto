@@ -19,3 +19,5 @@
 - [Cuestionario_Visualizacion_6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Cuestionario_Visualizacion_6.pdf)
 
 - [Presentación_Visualización_6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Presentaci%C3%B3n_Visualizaci%C3%B3n_6.pdf)
+
+- [Práctica de Visualización](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Visualizaci%C3%B3n_Equipo6.ipynb)
