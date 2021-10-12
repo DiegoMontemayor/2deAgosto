@@ -26,4 +26,6 @@
 
 - [Avance 2 PIA Corregido](https://github.com/Britany01/MineriaDeDatos/blob/main/AvancePIA_II_01_Equipo6.ipynb)
 
+## Fase 3
+
 - [Tecnicas_Equipo6](https://github.com/Britany01/MineriaDeDatos/blob/main/Tecnicas_Equipo6.ipynb)
