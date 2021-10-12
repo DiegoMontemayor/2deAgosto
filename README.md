@@ -28,6 +28,6 @@
 
 ## Fase 3
 
-- [Tecnicas_Equipo6](https://github.com/Britany01/MineriaDeDatos/blob/main/Tecnicas_Equipo6.ipynb)
+- [Ejercicio técnicas de minería -Equipo 6](https://github.com/Britany01/MineriaDeDatos/blob/main/Tecnicas_Equipo6.ipynb)
 
-- [Tecnicas_Equipo6 Corregido](https://github.com/DelfinoAvila/FCFM_Mineria/blob/main/Tecnicas_Equipo6.ipynb)
+- [Ejercicio técnicas de minería corregido -Equipo 6](https://github.com/DelfinoAvila/FCFM_Mineria/blob/main/Tecnicas_Equipo6.ipynb)
